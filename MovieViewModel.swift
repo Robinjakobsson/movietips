@@ -9,7 +9,7 @@ import Foundation
 
 class MovieViewModel : ObservableObject {
     @Published var movies: [Movie] = []
-    private let key = "ff913f8e821db8e3d75117e48d6bb5e0"
+    private let key = " ;) "
    
     
     
